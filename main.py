@@ -5,6 +5,7 @@ from chsh import chsh_correlation
 from operators import operators_set_creation
 from plotting import plot_relative
 from simulation import estimate_s
+from montecarlo import montecarlo
 
 if __name__ == "__main__":
     #First task
@@ -17,7 +18,7 @@ if __name__ == "__main__":
 
     #Second task
     """
-    para ti hermano
+    Second task is in "classical_universe.py"
     """
 
     #Third task
